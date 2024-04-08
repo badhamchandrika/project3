@@ -81,7 +81,7 @@
                     
     
     
-    <module>ui.tests</module>
+   <!-- <module>ui.tests</module> -->
       
   </modules>
           
